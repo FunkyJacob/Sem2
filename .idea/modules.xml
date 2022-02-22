@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAOS/DAOS.iml" filepath="$PROJECT_DIR$/DAOS/DAOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../L01 Rekursion/L01 Rekursion.iml" filepath="$PROJECT_DIR$/../L01 Rekursion/L01 Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02 Rekursion/L02 Rekursion.iml" filepath="$PROJECT_DIR$/L02 Rekursion/L02 Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03 DelLosKombiner/L03 DelLosKombiner.iml" filepath="$PROJECT_DIR$/L03 DelLosKombiner/L03 DelLosKombiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04 Java Collections Framework/L04 Java Collections Framework.iml" filepath="$PROJECT_DIR$/L04 Java Collections Framework/L04 Java Collections Framework.iml" />
+    </modules>
+  </component>
+</project>
