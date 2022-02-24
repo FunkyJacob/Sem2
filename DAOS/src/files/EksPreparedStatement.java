@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
+import java.sql.SQLException;
 
 public class EksPreparedStatement {
 
@@ -38,7 +39,27 @@ public class EksPreparedStatement {
             prestmt.close();
             minConnection.close();
 
-        } catch (Exception e) {
+
+
+
+        }
+
+        catch (SQLException e){
+            System.out.println("besked" + e.getMessage());
+            System.out.println("kode" + e.getErrorCode());
+
+            if (e.getErrorCode() == 2627){
+                System.out.println("Du skal vælge et andet id");
+            }
+            if (e.getErrorCode() == 8152){
+                System.out.println("Dit navn er for langt");
+            }
+
+        }
+
+
+
+        catch (Exception e) {
             System.out.println("fejl:  " + e.getMessage());
         }
     }
