@@ -3,11 +3,23 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DAOS/DAOS.iml" filepath="$PROJECT_DIR$/DAOS/DAOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS  Processer og Tråde/DAOS  Processer og Tråde.iml" filepath="$PROJECT_DIR$/DAOS  Processer og Tråde/DAOS  Processer og Tråde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS Concurrency/DAOS Concurrency.iml" filepath="$PROJECT_DIR$/DAOS Concurrency/DAOS Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS Stacks/DAOS Stacks.iml" filepath="$PROJECT_DIR$/DAOS Stacks/DAOS Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS opgave/DAOS opgave.iml" filepath="$PROJECT_DIR$/DAOS opgave/DAOS opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/../L01 Rekursion/L01 Rekursion.iml" filepath="$PROJECT_DIR$/../L01 Rekursion/L01 Rekursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/L02 Rekursion/L02 Rekursion.iml" filepath="$PROJECT_DIR$/L02 Rekursion/L02 Rekursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/L03 DelLosKombiner/L03 DelLosKombiner.iml" filepath="$PROJECT_DIR$/L03 DelLosKombiner/L03 DelLosKombiner.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04 Java Collections Framework/L04 Java Collections Framework.iml" filepath="$PROJECT_DIR$/L04 Java Collections Framework/L04 Java Collections Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/L06 Strategy og Observer/L06 Strategy og Observer.iml" filepath="$PROJECT_DIR$/L06 Strategy og Observer/L06 Strategy og Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07 Unit test og mocking/L07 Unit test og mocking.iml" filepath="$PROJECT_DIR$/L07 Unit test og mocking/L07 Unit test og mocking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10-Singleton og Adapter/L10-Singleton og Adapter.iml" filepath="$PROJECT_DIR$/L10-Singleton og Adapter/L10-Singleton og Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11 Iterator og Composite/L11 Iterator og Composite.iml" filepath="$PROJECT_DIR$/L11 Iterator og Composite/L11 Iterator og Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L19-kædestruktur/L19-kædestruktur.iml" filepath="$PROJECT_DIR$/L19-kædestruktur/L19-kædestruktur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20-Stakke og tidskompleksitet/L20-Stakke og tidskompleksitet.iml" filepath="$PROJECT_DIR$/L20-Stakke og tidskompleksitet/L20-Stakke og tidskompleksitet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L21 Køer og cirkulære lister/L21 Køer og cirkulære lister.iml" filepath="$PROJECT_DIR$/L21 Køer og cirkulære lister/L21 Køer og cirkulære lister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L22 Hashing/L22 Hashing.iml" filepath="$PROJECT_DIR$/L22 Hashing/L22 Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L23 Generiske klasser/L23 Generiske klasser.iml" filepath="$PROJECT_DIR$/L23 Generiske klasser/L23 Generiske klasser.iml" />
     </modules>
   </component>
 </project>
